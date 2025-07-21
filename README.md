@@ -110,6 +110,9 @@ Frontend will open at: `http://localhost:3000`
 - 🧹 Auto-delete uploaded files after session ends
 
 ---
+<img width="587" height="761" alt="image" src="https://github.com/user-attachments/assets/410df342-9e72-4782-8519-0dab033d01d4" />
+
+<img width="535" height="651" alt="image" src="https://github.com/user-attachments/assets/da80c15e-77bf-4fbd-8541-6d55926cd78b" />
 
 
 > Built with ❤️ using Node.js, React, Tailwind CSS, and Google's Gemini API.
